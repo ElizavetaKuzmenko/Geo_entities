@@ -6,7 +6,7 @@
 import json, codecs, re, os
 
 
-st = codecs.open('/home/boris/Work/poetic/geo/stoplist', 'r', 'utf-8')
+st = codecs.open('stoplist', 'r', 'utf-8')
 stp = st.read()
 stopwords = stp.split('\n')
 st.close()
@@ -77,7 +77,7 @@ def date_extr(year):
         
 
 def main():
-    js = open('/home/boris/Dropbox/geopoetics/all.json')
+    js = open('all.json')
     geodict = json.load(js)
     js.close()
     cities = entity_clean_up(geodict[u'Населенные пункты'])
@@ -89,6 +89,7 @@ def main():
     
     #list(cities).extend([u'царьград', u'константинополь'])
     cities.extend([u'царьград', u'константинополь'])
+    cities.append(u'ревель')
     cities = set(cities)
     
     geopoetics = {
@@ -111,6 +112,8 @@ def main():
                     city = u'санкт-петербург'
                 if city in [u'царьград', u'константинополь']:
                     city = u'стамбул'
+                if city == u'ревель':
+                    city = u'таллин'
                 if city in geopoetics['cities']['all']:
                     geopoetics['cities']['all'][city] += 1
                 else:
