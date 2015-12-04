@@ -83,13 +83,13 @@ def main():
     cities = entity_clean_up(geodict[u'Населенные пункты'])
     countries = entity_clean_up(geodict[u'Государства'])
     
-    #list(cities).extend([u'петербург', u'петроград', u'ленинград'])
-    cities.extend([u'петербург', u'петроград', u'ленинград'])
-    #cities = set(cities)
+    cities.append(u'емен')
+    countries = set(countries)
     
-    #list(cities).extend([u'царьград', u'константинополь'])
+    cities.extend([u'петербург', u'петроград', u'ленинград'])
     cities.extend([u'царьград', u'константинополь'])
     cities.append(u'ревель')
+    cities.append(u'дерпт')
     cities = set(cities)
     
     geopoetics = {
@@ -114,6 +114,8 @@ def main():
                     city = u'стамбул'
                 if city == u'ревель':
                     city = u'таллин'
+                if city == u'дерпт':
+                    city = u'тарту'
                 if city in geopoetics['cities']['all']:
                     geopoetics['cities']['all'][city] += 1
                 else:
@@ -144,6 +146,8 @@ def main():
                     geopoetics['cities']['centuries'][century] = {city: 1}
 
             for country in filedata[3]:
+                if country == u'емен':
+                    country = u'йемен'
                 if country in geopoetics['countries']['all']:
                     geopoetics['countries']['all'][country] += 1
                 else:
