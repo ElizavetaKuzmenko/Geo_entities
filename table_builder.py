@@ -78,7 +78,7 @@ def separated_data(data, type_entity, cities_latlon):
             for item in sorted(order, key=order.get, reverse=True):
                 if item in cities_latlon:
                     latlon_val = cities_latlon[item]
-                else:
+                elif item in :
                     latlon_val = 'NA,NA'
                 f.write('"' + str(i) + '","' + item + '",' + str(log10(int(order[item])) + 1) + ',' + latlon_val + '\n')
                 i += 1

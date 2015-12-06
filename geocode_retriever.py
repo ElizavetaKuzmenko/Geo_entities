@@ -5,7 +5,7 @@ import urllib2
 import urllib
 import re
 
-fw = codecs.open('cities_latlon.csv', 'w', 'utf-8')
+fw = codecs.open('cities_latlon3.csv', 'w', 'utf-8')
 fw.write(u'"","City","lon","lat"\n')
 
 i = 0
@@ -16,7 +16,16 @@ for line in f:
     line = line.strip()
     city, freq = line.split()
     print str(i) + '. ' + city
+    if i < 371:
+        continue
     city_web = city.capitalize()
+    if '-' in city_web:
+        parts = city_web.split('-')
+        for indx, part in enumerate(parts):
+            parts[indx] = part.capitalize()
+            if part == u'на':
+                parts[indx] = u'на'
+        city_web = '-'.join(parts)
     url = u'https://ru.wikipedia.org/wiki/' + city_web
     page = urllib.urlopen(url.encode("UTF-8")).read()
     res = re.search(u'href="//(tools.+?)">', page)
