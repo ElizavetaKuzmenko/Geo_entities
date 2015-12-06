@@ -5,13 +5,16 @@
 #  
 # относительное число текстов с городами, с крупными городами
 
+#dependency: pip install transliterate
+
 import codecs, json
 #import rpy2.robjects as robjects
 from math import log10
+from transliterate import translit, get_available_language_codes
 
 thead = '"","City","Freq","lon","lat"\n'
 
-def extractor(type_entity, cities_latlon):
+def extractor(type_entity, cities_latlon, countries_latlon):
     f = codecs.open('../' + type_entity +'.json', 'r', 'utf-8')
     data = json.load(f)
     f.close()
@@ -25,6 +28,8 @@ def extractor(type_entity, cities_latlon):
     for item in sorted(all_time, key=all_time.get, reverse=True):
         if item in cities_latlon:
             latlon_val = cities_latlon[item]
+        elif item in countries_latlon:
+            latlon_val = countries_latlon[item]
         else:
             latlon_val = 'NA,NA'
         f.write('"' + str(i) + '","' + item + '",' + str(all_time[item]) + ',' + latlon_val + '\n')
@@ -39,21 +44,33 @@ def extractor(type_entity, cities_latlon):
     for item in sorted(all_time, key=all_time.get, reverse=True):
         if item in cities_latlon:
             latlon_val = cities_latlon[item]
+        elif item in countries_latlon:
+            latlon_val = countries_latlon[item]
         else:
             latlon_val = 'NA,NA'
         f.write('"' + str(i) + '","' + item + '",' + str(log10(int(all_time[item])) + 1) + ',' + latlon_val + '\n')
         i += 1
     f.close()
     
-    separated_data(data, type_entity, cities_latlon)
+    separated_data(data, type_entity, cities_latlon, countries_latlon)
     
     if type_entity == 'cities':
-        big_cities_detalized(big_cities, data['decades']):
+        big_cities_detalized(big_cities, data['decades'])
             
 def big_cities_detalized(big_cities, data):
-    pass
+    f = codecs.open('../prepared_data/big_cities_abs.R', 'w', 'utf-8')
+    for city in big_cities:
+        city_decade = []
+        for decade in sorted(data):
+            if city in data[decade]:
+                city_decade.append(str(data[decade][city]))
+            else:
+                city_decade.append('0')
+        city_name = translit(city, 'ru', reversed=True)
+        f.write(city_name + ' <- c(' + ','.join(city_decade) + ')\n')
+    f.close()
     
-def separated_data(data, type_entity, cities_latlon):
+def separated_data(data, type_entity, cities_latlon, countries_latlon):
     ents = ['centuries', 'decades', 'authors']
     for key in ents:
         dic = data[key]
@@ -66,6 +83,8 @@ def separated_data(data, type_entity, cities_latlon):
             for item in sorted(order, key=order.get, reverse=True):
                 if item in cities_latlon:
                     latlon_val = cities_latlon[item]
+                elif item in countries_latlon:
+                    latlon_val = countries_latlon[item]
                 else:
                     latlon_val = 'NA,NA'
                 f.write('"' + str(i) + '","' + item + '",' + str(order[item]) + ',' + latlon_val + '\n')
@@ -78,7 +97,9 @@ def separated_data(data, type_entity, cities_latlon):
             for item in sorted(order, key=order.get, reverse=True):
                 if item in cities_latlon:
                     latlon_val = cities_latlon[item]
-                elif item in :
+                elif item in countries_latlon:
+                    latlon_val = countries_latlon[item]
+                else:
                     latlon_val = 'NA,NA'
                 f.write('"' + str(i) + '","' + item + '",' + str(log10(int(order[item])) + 1) + ',' + latlon_val + '\n')
                 i += 1
@@ -87,22 +108,24 @@ def separated_data(data, type_entity, cities_latlon):
     
     
     
-def latlon():
+def latlon(fname):
     cities_latlon = {}
-    f = codecs.open('cities_latlon.csv', 'r', 'utf-8')
+    f = codecs.open(fname, 'r', 'utf-8')
     for ln in f:
         if ',' in ln:
             cells = ln.split(',')
             city = cells[1].strip('"')
             latlon = cells[2] + ',' + cells[3].strip()
             cities_latlon[city] = latlon
+    f.close()
     return cities_latlon
 
 def main():
     types = ['cities', 'countries']
-    cities_latlon = latlon()
+    cities_latlon = latlon('cities_latlon.csv')
+    countries_latlon = latlon('countries_latlon.csv')
     for tp in types:
-        extractor(tp, cities_latlon)
+        extractor(tp, cities_latlon, countries_latlon)
     return 0
 
 if __name__ == '__main__':
