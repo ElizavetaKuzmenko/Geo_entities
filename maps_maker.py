@@ -8,7 +8,7 @@ import os
 import codecs
 import rpy2.robjects as robjects
 
-location = u'africa'
+location = u'europe'
 zoom = '3'
 
 def mapmaker(flname, root, location, zoom):

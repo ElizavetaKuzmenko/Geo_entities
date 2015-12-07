@@ -2,7 +2,15 @@ from images2gif import writeGif
 from PIL import Image
 import os
 
-dirpath = '../geo/maps_italy/cities_decades_log/'
+#In images2gif.py change line 200:
+
+#for im in images:
+    #palettes.append( getheader(im)[1] )
+#to
+
+#for im in images:
+    #palettes.append(im.palette.getdata()[1])
+
 result_path = '../animated_maps/'
 
 def gif_assemble(root, file_names_raw):
@@ -22,7 +30,7 @@ def gif_assemble(root, file_names_raw):
     begin_path, end_path = root.split('maps_')
     filename = end_path.replace('/', '_')
     filename += '.gif'
-    writeGif(result_path + filename, images, duration=0.9, repeat=True, dither=False)
+    writeGif(result_path + filename, images, duration=1.2, repeat=True, dither=False)
 
 for root, dirs, files in os.walk('../'):
     if 'maps_' in root:

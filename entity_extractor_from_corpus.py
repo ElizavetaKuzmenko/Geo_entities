@@ -180,12 +180,12 @@ def main():
     countries_poet = geopoetics['countries']['all']
     cities_poet = geopoetics['cities']['all']
     
-    fw = codecs.open('/home/boris/Work/poetic/geo/countries.csv', 'w', 'utf-8')
+    fw = codecs.open('/home/boris/Work/poetic/geo/Geo_entities/countries.csv', 'w', 'utf-8')
     for word in sorted(countries_poet, key=countries_poet.get, reverse=True):
         fw.write(word + '\t' + str(countries_poet[word]) + '\n')
     fw.close()
     
-    fw = codecs.open('/home/boris/Work/poetic/geo/cities.csv', 'w', 'utf-8')
+    fw = codecs.open('/home/boris/Work/poetic/geo/Geo_entities/cities.csv', 'w', 'utf-8')
     for word in sorted(cities_poet, key=cities_poet.get, reverse=True):
         fw.write(word + '\t' + str(cities_poet[word]) + '\n')
     fw.close()
