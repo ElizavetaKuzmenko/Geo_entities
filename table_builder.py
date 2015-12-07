@@ -62,7 +62,11 @@ def big_cities_detalized(big_cities, data):
     for city in big_cities:
         city_decade = []
         for decade in sorted(data):
-            if city in data[decade]:
+            if decade == '0':
+                continue
+            elif int(decade) > 1940:
+                continue
+            elif city in data[decade]:
                 city_decade.append(str(data[decade][city]))
             else:
                 city_decade.append('0')

@@ -98,11 +98,14 @@ def main():
     }
     base = {}
     
+    authors = []
+    
     for root, dirs, files in os.walk('/home/boris/Work/poetic/lemmed_poetic_corpus'):
         for fl in files:
             print root + os.sep + fl
             f = codecs.open(root + os.sep + fl, 'r', 'utf-8')
             filedata = fileparse(f, cities, countries)
+            authors.append(filedata[1])
             century, decade = date_extr(filedata[0])
             path = root.replace('/home/boris/Work/poetic/lemmed_poetic_corpus', '')
             path = path + os.sep + fl
@@ -201,6 +204,13 @@ def main():
     fj = codecs.open('/home/boris/Work/poetic/geo/countries.json', 'w', 'utf-8')
     json.dump(geopoetics['countries'], fj, sort_keys=True, indent=4, ensure_ascii=False)
     fj.close()
+    
+    authors = list(set(authors))
+    authors.sort()
+    fw = codecs.open('authors.csv', 'w', 'utf-8')
+    author = '\n'.join(authors)
+    fw.write(author)
+    fw.close()
     
     
     return 0
