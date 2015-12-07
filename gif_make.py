@@ -19,7 +19,7 @@ def gif_assemble(root, file_names_raw):
     if len(file_names) == 0:
         return 0
     images = [Image.open(root + os.sep + fn) for fn in file_names]
-    begin_path, end_path = root.spit('maps_')
+    begin_path, end_path = root.split('maps_')
     filename = end_path.replace('/', '_')
     filename += '.gif'
     writeGif(result_path + filename, images, duration=0.9, repeat=True, dither=False)
