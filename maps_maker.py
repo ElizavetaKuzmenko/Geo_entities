@@ -8,8 +8,8 @@ import os
 import codecs
 import rpy2.robjects as robjects
 
-location = u'europe'
-zoom = '3'
+location = u'India'
+zoom = '2'
 
 def mapmaker(flname, root, location, zoom):
     robjects.r('library(ggmap)')
@@ -28,7 +28,7 @@ def mapmaker(flname, root, location, zoom):
     robjects.r('eu.map.o <- eu.map.o + scale_color_gradient(low = "brown", high = "yellow")')
     robjects.r('eu.map.o <- eu.map.o + ggtitle("' + mapname + '\n") + theme(legend.position = "right")')
     robjects.r('print(eu.map.o)')
-    robjects.r('ggsave("' + path + mapname + '.png", width=8, height=8)')
+    robjects.r('ggsave("' + path + mapname + '.png", width=10, height=10)')
     robjects.r('dev.off()')
     
         
