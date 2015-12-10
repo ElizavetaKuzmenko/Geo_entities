@@ -109,7 +109,7 @@ def main():
             century, decade = date_extr(filedata[0])
             path = root.replace('/home/boris/Work/poetic/lemmed_poetic_corpus', '')
             path = path + os.sep + fl
-            base[path] = {'decade': decade, 'century': century, 'cities': filedata[2], 'countries': filedata[3]}
+            base[path] = {'decade': decade, 'century': century, 'cities': filedata[2], 'countries': filedata[3], 'author': filedata[1]}
             for city in filedata[2]:
                 if city in [u'петербург', u'петроград', u'ленинград']:
                     city = u'санкт-петербург'

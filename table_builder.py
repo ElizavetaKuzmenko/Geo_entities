@@ -33,7 +33,7 @@ def extractor(type_entity, cities_latlon, countries_latlon):
         else:
             latlon_val = 'NA,NA'
         f.write('"' + str(i) + '","' + item + '",' + str(all_time[item]) + ',' + latlon_val + '\n')
-        if type_entity == 'cities' and i < 11:
+        if i < 11:
             big_cities.append(item)
         i += 1
     f.close()
@@ -53,14 +53,16 @@ def extractor(type_entity, cities_latlon, countries_latlon):
     f.close()
     
     separated_data(data, type_entity, cities_latlon, countries_latlon)
-    
-    if type_entity == 'cities':
-        big_cities_detalized(big_cities, data['decades'])
+    big_cities_detalized(big_cities, data['decades'], type_entity)
             
-def big_cities_detalized(big_cities, data):
-    f = codecs.open('../prepared_data/big_cities_abs.R', 'w', 'utf-8')
+def big_cities_detalized(big_cities, data, type_entity):
+    fw = codecs.open('../prepared_data/big_' + type_entity + '_list.txt', 'w', 'utf-8')
+    fw.write('\n'.join(big_cities))
+    fw.close()
+    f = codecs.open('../prepared_data/big_' + type_entity + '_abs.R', 'w', 'utf-8')
     for city in big_cities:
         city_decade = []
+        decades_lst = []
         for decade in sorted(data):
             if decade == '0':
                 continue
@@ -68,10 +70,15 @@ def big_cities_detalized(big_cities, data):
                 continue
             elif city in data[decade]:
                 city_decade.append(str(data[decade][city]))
+                decades_lst.append(decade)
             else:
                 city_decade.append('0')
+                decades_lst.append(decade)
         city_name = translit(city, 'ru', reversed=True)
+        city_name = city_name.replace('-', '.')
+        city_name = city_name.replace("'", '')
         f.write(city_name + ' <- c(' + ','.join(city_decade) + ')\n')
+    f.write('decades <- c(' + ','.join(decades_lst) + ')\n') 
     f.close()
     
 def separated_data(data, type_entity, cities_latlon, countries_latlon):
