@@ -79,7 +79,7 @@ def separated_data(data, base, type_entity):
         fw.close()
         if len(dec_percent) > 0:
             fr = codecs.open('../prepared_data/rel_data/' + key + '_' + type_entity + '.R', 'w', 'utf-8')
-            fr.write(key + ' <- c(' + ','.join(dec_percent) + ')\n')
+            fr.write(type_entity + ' <- c(' + ','.join(dec_percent) + ')\n')
             fr.write('decades <- c(' + ','.join(decades_lst) + ')\n')
             fr.close()
 
