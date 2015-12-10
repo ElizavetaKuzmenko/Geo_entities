@@ -4,6 +4,7 @@
 #  stat.py
 
 import codecs, json, re
+from transliterate import translit, get_available_language_codes
 #import rpy2.robjects as robjects
     
 def base_parse(base, type_entity):
@@ -53,11 +54,18 @@ def extractor(type_entity):
     separated_data(data, results, type_entity)        
 
 def separated_data(data, base, type_entity):
+    big_list = []
+    b = codecs.open('../prepared_data/big_' + type_entity + '_list.txt', 'r', 'utf-8')
+    for item in b:
+        item.strip()
+        big_list.append(item)
+    b.close()
     ents = ['centuries', 'decades', 'authors']
     for key in ents:
         dec_percent = []
         decades_lst = []
         decades_legth = []
+        big = {it: [] for it in big_list}
         if key == 'centuries':
             r = base[0]
         elif key == 'decades':
@@ -77,6 +85,11 @@ def separated_data(data, base, type_entity):
                 dec_percent.append(str((float(r[cert]['ent']) / r[cert]['all']) * 100))
                 decades_legth.append(str(len(dic[cert])))
                 decades_lst.append(cert)
+                for cit in big:
+                    if cit in dic[cert]:
+                        big[cit].append(str((float(r[cert]['ent']) / r[cert]['all']) * 100))
+                    else:
+                        big[cit].append('0')
             fw.write(cert + '\t' + str(r[cert]['all']) + '\t' + str(r[cert]['ent']) + '\t' + str((float(r[cert]['ent']) / r[cert]['all']) * 100) + '\n')
         fw.close()
         if len(dec_percent) > 0:
@@ -85,6 +98,16 @@ def separated_data(data, base, type_entity):
             fr.write(type_entity + '_width <- c(' + ','.join(decades_legth) + ')\n')
             fr.write('decades <- c(' + ','.join(decades_lst) + ')\n')
             fr.close()
+            
+            big_f = codecs.open('../prepared_data/rel_data/big_' + type_entity + '_percent.R', 'w', 'utf-8')
+            for it in big:
+                seq = big[it]
+                it = translit(it, 'ru', reversed=True)
+                it = it.replace('-', '.')
+                it = it.replace("'", '')
+                big_f.write(it + ' <- c(' + ','.join(seq) + ')\n')
+            big_f.write('decades <- c(' + ','.join(decades_lst) + ')\n')
+            big_f.close()
 
 def main():
     types = ['cities', 'countries']
