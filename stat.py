@@ -100,13 +100,17 @@ def separated_data(data, base, type_entity):
             fr.close()
             
             big_f = codecs.open('../prepared_data/rel_data/big_' + type_entity + '_percent.R', 'w', 'utf-8')
+            its = []
             for it in big:
                 seq = big[it]
                 it = translit(it, 'ru', reversed=True)
                 it = it.replace('-', '.')
                 it = it.replace("'", '')
+                its.append(it)
                 big_f.write(it + ' <- c(' + ','.join(seq) + ')\n')
             big_f.write('decades <- c(' + ','.join(decades_lst) + ')\n')
+            big_f.write('countr <- data.frame(' + ', '.join(its) + ')\n')
+            big_f.write('cor(countr)\n')
             big_f.close()
 
 def main():
