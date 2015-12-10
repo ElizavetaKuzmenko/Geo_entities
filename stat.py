@@ -57,7 +57,7 @@ def separated_data(data, base, type_entity):
     big_list = []
     b = codecs.open('../prepared_data/big_' + type_entity + '_list.txt', 'r', 'utf-8')
     for item in b:
-        item.strip()
+        item = item.strip()
         big_list.append(item)
     b.close()
     ents = ['centuries', 'decades', 'authors']
@@ -87,7 +87,7 @@ def separated_data(data, base, type_entity):
                 decades_lst.append(cert)
                 for cit in big:
                     if cit in dic[cert]:
-                        big[cit].append(str((float(r[cert]['ent']) / r[cert]['all']) * 100))
+                        big[cit].append(str((float(dic[cert][cit]) / r[cert]['all']) * 100))
                     else:
                         big[cit].append('0')
             fw.write(cert + '\t' + str(r[cert]['all']) + '\t' + str(r[cert]['ent']) + '\t' + str((float(r[cert]['ent']) / r[cert]['all']) * 100) + '\n')
