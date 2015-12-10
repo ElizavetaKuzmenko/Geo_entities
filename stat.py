@@ -57,6 +57,7 @@ def separated_data(data, base, type_entity):
     for key in ents:
         dec_percent = []
         decades_lst = []
+        decades_legth = []
         if key == 'centuries':
             r = base[0]
         elif key == 'decades':
@@ -74,12 +75,14 @@ def separated_data(data, base, type_entity):
                 if int(cert) > 1940:
                     continue
                 dec_percent.append(str((float(r[cert]['ent']) / r[cert]['all']) * 100))
+                decades_legth.append(str(len(dic[cert])))
                 decades_lst.append(cert)
             fw.write(cert + '\t' + str(r[cert]['all']) + '\t' + str(r[cert]['ent']) + '\t' + str((float(r[cert]['ent']) / r[cert]['all']) * 100) + '\n')
         fw.close()
         if len(dec_percent) > 0:
             fr = codecs.open('../prepared_data/rel_data/' + key + '_' + type_entity + '.R', 'w', 'utf-8')
             fr.write(type_entity + ' <- c(' + ','.join(dec_percent) + ')\n')
+            fr.write(type_entity + '_width <- c(' + ','.join(decades_legth) + ')\n')
             fr.write('decades <- c(' + ','.join(decades_lst) + ')\n')
             fr.close()
 
