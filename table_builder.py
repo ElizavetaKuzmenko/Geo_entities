@@ -3,7 +3,6 @@
 #
 #  table_builder.py
 #  
-# относительное число текстов с городами, с крупными городами
 
 #dependency: pip install transliterate
 

@@ -8,8 +8,8 @@ import os
 import codecs
 import rpy2.robjects as robjects
 
-location = u'India'
-zoom = '2'
+location = u'Spain'
+zoom = '6'
 
 def mapmaker(flname, root, location, zoom):
     robjects.r('library(ggmap)')

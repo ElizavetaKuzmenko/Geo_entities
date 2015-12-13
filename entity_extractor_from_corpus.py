@@ -86,10 +86,12 @@ def main():
     cities.append(u'емен')
     countries = set(countries)
     
-    cities.extend([u'петербург', u'петроград', u'ленинград'])
+    cities.extend([u'петербург', u'петроград', u'ленинград', u'петрополь'])
     cities.extend([u'царьград', u'константинополь'])
     cities.append(u'ревель')
     cities.append(u'дерпт')
+    cities.append(u'лисабон')
+    cities.append(u'мадрит')
     cities = set(cities)
     
     geopoetics = {
@@ -111,7 +113,7 @@ def main():
             path = path + os.sep + fl
             base[path] = {'decade': decade, 'century': century, 'cities': filedata[2], 'countries': filedata[3], 'author': filedata[1]}
             for city in filedata[2]:
-                if city in [u'петербург', u'петроград', u'ленинград']:
+                if city in [u'петербург', u'петроград', u'ленинград', u'петрополь']:
                     city = u'санкт-петербург'
                 if city in [u'царьград', u'константинополь']:
                     city = u'стамбул'
@@ -119,6 +121,10 @@ def main():
                     city = u'таллин'
                 if city == u'дерпт':
                     city = u'тарту'
+                if city == u'лисабон':
+                    city = u'лиссабон'
+                if city == u'мадрит':
+                    city = u'мадрид'
                 if city in geopoetics['cities']['all']:
                     geopoetics['cities']['all'][city] += 1
                 else:
