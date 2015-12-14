@@ -86,12 +86,20 @@ def main():
     cities.append(u'емен')
     countries = set(countries)
     
+    cities_alias = {
+    u'петербург': u'санкт-петербург',
+    u'петроград': u'санкт-петербург',
+    u'ленинград': u'санкт-петербург',
+    u'петрополь': u'санкт-петербург',
+    u'царьград': u'стамбул', 
+    u'константинополь': u'стамбул',
+    u'ревель': u'таллин',
+    u'дерпт': u'тарту',
+    u'лисабон': u'лиссабон',
+    u'мадрит': u'мадрид'
+    }
+    
     cities.extend([u'петербург', u'петроград', u'ленинград', u'петрополь'])
-    cities.extend([u'царьград', u'константинополь'])
-    cities.append(u'ревель')
-    cities.append(u'дерпт')
-    cities.append(u'лисабон')
-    cities.append(u'мадрит')
     cities = set(cities)
     
     geopoetics = {
@@ -113,18 +121,8 @@ def main():
             path = path + os.sep + fl
             base[path] = {'decade': decade, 'century': century, 'cities': filedata[2], 'countries': filedata[3], 'author': filedata[1]}
             for city in filedata[2]:
-                if city in [u'петербург', u'петроград', u'ленинград', u'петрополь']:
-                    city = u'санкт-петербург'
-                if city in [u'царьград', u'константинополь']:
-                    city = u'стамбул'
-                if city == u'ревель':
-                    city = u'таллин'
-                if city == u'дерпт':
-                    city = u'тарту'
-                if city == u'лисабон':
-                    city = u'лиссабон'
-                if city == u'мадрит':
-                    city = u'мадрид'
+                if city in cities_alias:
+                    city = cities_alias[city]
                 if city in geopoetics['cities']['all']:
                     geopoetics['cities']['all'][city] += 1
                 else:
