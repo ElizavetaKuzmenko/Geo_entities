@@ -5,6 +5,10 @@
 
 import json, codecs, re, os
 
+#PATH_DATA = '/home/boris/Work/poetic/geo/'
+#PATH_CORPUS = '/home/boris/Work/poetic/'
+PATH_DATA = '/home/lizaku/PycharmProjects/Geo_entities/'
+PATH_CORPUS = '/home/lizaku/PycharmProjects/Geo_entities/poetic/'
 
 st = codecs.open('stoplist', 'r', 'utf-8')
 stp = st.read()
@@ -110,14 +114,14 @@ def main():
     
     authors = []
     
-    for root, dirs, files in os.walk('/home/boris/Work/poetic/lemmed_poetic_corpus'):
+    for root, dirs, files in os.walk(PATH_CORPUS + 'lemmed_poetic_corpus'):
         for fl in files:
             print root + os.sep + fl
             f = codecs.open(root + os.sep + fl, 'r', 'utf-8')
             filedata = fileparse(f, cities, countries)
             authors.append(filedata[1])
             century, decade = date_extr(filedata[0])
-            path = root.replace('/home/boris/Work/poetic/lemmed_poetic_corpus', '')
+            path = root.replace(PATH_CORPUS + 'lemmed_poetic_corpus', '')
             path = path + os.sep + fl
             base[path] = {'decade': decade, 'century': century, 'cities': filedata[2], 'countries': filedata[3], 'author': filedata[1]}
             for city in filedata[2]:
@@ -187,25 +191,25 @@ def main():
     countries_poet = geopoetics['countries']['all']
     cities_poet = geopoetics['cities']['all']
     
-    fw = codecs.open('/home/boris/Work/poetic/geo/Geo_entities/countries.csv', 'w', 'utf-8')
+    fw = codecs.open(PATH_DATA + 'countries.csv', 'w', 'utf-8')
     for word in sorted(countries_poet, key=countries_poet.get, reverse=True):
         fw.write(word + '\t' + str(countries_poet[word]) + '\n')
     fw.close()
     
-    fw = codecs.open('/home/boris/Work/poetic/geo/Geo_entities/cities.csv', 'w', 'utf-8')
+    fw = codecs.open(PATH_DATA + 'cities.csv', 'w', 'utf-8')
     for word in sorted(cities_poet, key=cities_poet.get, reverse=True):
         fw.write(word + '\t' + str(cities_poet[word]) + '\n')
     fw.close()
                 
-    fj = codecs.open('/home/boris/Work/poetic/geo/file_base.json', 'w', 'utf-8')
+    fj = codecs.open('../file_base.json', 'w', 'utf-8')
     json.dump(base, fj, sort_keys=True, indent=4, ensure_ascii=False)
     fj.close()
             
-    fj = codecs.open('/home/boris/Work/poetic/geo/cities.json', 'w', 'utf-8')
+    fj = codecs.open('../cities.json', 'w', 'utf-8')
     json.dump(geopoetics['cities'], fj, sort_keys=True, indent=4, ensure_ascii=False)
     fj.close()
     
-    fj = codecs.open('/home/boris/Work/poetic/geo/countries.json', 'w', 'utf-8')
+    fj = codecs.open('../countries.json', 'w', 'utf-8')
     json.dump(geopoetics['countries'], fj, sort_keys=True, indent=4, ensure_ascii=False)
     fj.close()
     

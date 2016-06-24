@@ -2,10 +2,11 @@ from images2gif import writeGif
 from PIL import Image
 import os
 
+PATH_MAPS = '/home/boris/Work/poetic/geo/maps_countries'
 
 def gf_make():
     file_names = []
-    for flnm in sorted(os.listdir('/home/boris/Work/poetic/geo/maps_countries')):
+    for flnm in sorted(os.listdir(PATH_MAPS)):
         if not flnm.endswith('.png'):
             continue
         elif 'sm_' not in flnm:
@@ -18,8 +19,8 @@ def gf_make():
             continue
         else:
             file_names.append(flnm)
-    images = [Image.open('/home/boris/Work/poetic/geo/maps_countries' + os.sep + fn) for fn in file_names]
-    writeGif('/home/boris/Work/poetic/geo/maps_countries/anim_countries_slow.gif', images, duration=1.7, repeat=True, dither=False)
+    images = [Image.open(PATH_MAPS + os.sep + fn) for fn in file_names]
+    writeGif(PATH_MAPS + '/anim_countries_slow.gif', images, duration=1.7, repeat=True, dither=False)
     
 def main():
     gf_make()
