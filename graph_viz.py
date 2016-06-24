@@ -11,7 +11,7 @@ for (u, v, c) in G.edges(data='century'):
         nodes.add(v)
         #print('(%s, %s, %s)' % (u, v, c))
 h = G.subgraph(nodes)
-git
+
 nx.draw(h, node_size=30)
 #nx.draw_networkx_labels(G,pos=nx.spring_layout(G),labels=G.nodes())
 plt.show()
