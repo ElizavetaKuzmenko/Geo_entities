@@ -4,7 +4,7 @@
 #  stat.py
 
 import codecs, json, re
-from transliterate import translit, get_available_language_codes
+#from transliterate import translit, get_available_language_codes
 #import rpy2.robjects as robjects
     
 def base_parse(base, type_entity):
