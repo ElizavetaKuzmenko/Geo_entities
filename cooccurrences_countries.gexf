@@ -7,2442 +7,2442 @@
 <attribute id="0" title="author" type="string"/>
 <attribute id="1" title="century" type="string"/>
 </attributes>
-<nodes><node id="0" label="шотландия">
+<nodes><node id="шотландия" label="шотландия">
 <attvalues/>
-</node><node id="1" label="ливия">
+</node><node id="ливия" label="ливия">
 <attvalues/>
-</node><node id="2" label="бельгия">
+</node><node id="бельгия" label="бельгия">
 <attvalues/>
-</node><node id="3" label="монголия">
+</node><node id="монголия" label="монголия">
 <attvalues/>
-</node><node id="4" label="гвинея">
+</node><node id="гвинея" label="гвинея">
 <attvalues/>
-</node><node id="5" label="австрия">
+</node><node id="австрия" label="австрия">
 <attvalues/>
-</node><node id="6" label="тунис">
+</node><node id="тунис" label="тунис">
 <attvalues/>
-</node><node id="7" label="греция">
+</node><node id="греция" label="греция">
 <attvalues/>
-</node><node id="8" label="ватикан">
+</node><node id="ватикан" label="ватикан">
 <attvalues/>
-</node><node id="9" label="аргентина">
+</node><node id="аргентина" label="аргентина">
 <attvalues/>
-</node><node id="10" label="грузия">
+</node><node id="грузия" label="грузия">
 <attvalues/>
-</node><node id="11" label="мальта">
+</node><node id="мальта" label="мальта">
 <attvalues/>
-</node><node id="12" label="литва">
+</node><node id="литва" label="литва">
 <attvalues/>
-</node><node id="13" label="израиль">
+</node><node id="израиль" label="израиль">
 <attvalues/>
-</node><node id="14" label="норвегия">
+</node><node id="норвегия" label="норвегия">
 <attvalues/>
-</node><node id="15" label="иран">
+</node><node id="иран" label="иран">
 <attvalues/>
-</node><node id="16" label="никарагуа">
+</node><node id="никарагуа" label="никарагуа">
 <attvalues/>
-</node><node id="17" label="таджикистан">
+</node><node id="таджикистан" label="таджикистан">
 <attvalues/>
-</node><node id="18" label="китай">
+</node><node id="китай" label="китай">
 <attvalues/>
-</node><node id="19" label="йемен">
+</node><node id="йемен" label="йемен">
 <attvalues/>
-</node><node id="20" label="швеция">
+</node><node id="швеция" label="швеция">
 <attvalues/>
-</node><node id="21" label="швейцария">
+</node><node id="швейцария" label="швейцария">
 <attvalues/>
-</node><node id="22" label="россия">
+</node><node id="россия" label="россия">
 <attvalues/>
-</node><node id="23" label="мексика">
+</node><node id="мексика" label="мексика">
 <attvalues/>
-</node><node id="24" label="финляндия">
+</node><node id="финляндия" label="финляндия">
 <attvalues/>
-</node><node id="25" label="эстония">
+</node><node id="эстония" label="эстония">
 <attvalues/>
-</node><node id="26" label="сербия">
+</node><node id="сербия" label="сербия">
 <attvalues/>
-</node><node id="27" label="индия">
+</node><node id="индия" label="индия">
 <attvalues/>
-</node><node id="28" label="украина">
+</node><node id="украина" label="украина">
 <attvalues/>
-</node><node id="29" label="канада">
+</node><node id="канада" label="канада">
 <attvalues/>
-</node><node id="30" label="латвия">
+</node><node id="латвия" label="латвия">
 <attvalues/>
-</node><node id="31" label="германия">
+</node><node id="германия" label="германия">
 <attvalues/>
-</node><node id="32" label="марокко">
+</node><node id="марокко" label="марокко">
 <attvalues/>
-</node><node id="33" label="япония">
+</node><node id="япония" label="япония">
 <attvalues/>
-</node><node id="34" label="чехия">
+</node><node id="чехия" label="чехия">
 <attvalues/>
-</node><node id="35" label="узбекистан">
+</node><node id="узбекистан" label="узбекистан">
 <attvalues/>
-</node><node id="36" label="алжир">
+</node><node id="алжир" label="алжир">
 <attvalues/>
-</node><node id="37" label="гибралтар">
+</node><node id="гибралтар" label="гибралтар">
 <attvalues/>
-</node><node id="38" label="люксембург">
+</node><node id="люксембург" label="люксембург">
 <attvalues/>
-</node><node id="39" label="австралия">
+</node><node id="австралия" label="австралия">
 <attvalues/>
-</node><node id="40" label="ливан">
+</node><node id="ливан" label="ливан">
 <attvalues/>
-</node><node id="41" label="белоруссия">
+</node><node id="белоруссия" label="белоруссия">
 <attvalues/>
-</node><node id="42" label="великобритания">
+</node><node id="великобритания" label="великобритания">
 <attvalues/>
-</node><node id="43" label="оман">
+</node><node id="оман" label="оман">
 <attvalues/>
-</node><node id="44" label="перу">
+</node><node id="перу" label="перу">
 <attvalues/>
-</node><node id="45" label="испания">
+</node><node id="испания" label="испания">
 <attvalues/>
-</node><node id="46" label="турция">
+</node><node id="турция" label="турция">
 <attvalues/>
-</node><node id="47" label="польша">
+</node><node id="польша" label="польша">
 <attvalues/>
-</node><node id="48" label="молдавия">
+</node><node id="молдавия" label="молдавия">
 <attvalues/>
-</node><node id="49" label="сомали">
+</node><node id="сомали" label="сомали">
 <attvalues/>
-</node><node id="50" label="коморы">
+</node><node id="коморы" label="коморы">
 <attvalues/>
-</node><node id="51" label="италия">
+</node><node id="италия" label="италия">
 <attvalues/>
-</node><node id="52" label="монако">
+</node><node id="монако" label="монако">
 <attvalues/>
-</node><node id="53" label="азербайджан">
+</node><node id="азербайджан" label="азербайджан">
 <attvalues/>
-</node><node id="54" label="франция">
+</node><node id="франция" label="франция">
 <attvalues/>
-</node><node id="55" label="англия">
+</node><node id="англия" label="англия">
 <attvalues/>
-</node><node id="56" label="казахстан">
+</node><node id="казахстан" label="казахстан">
 <attvalues/>
-</node><node id="57" label="дания">
+</node><node id="дания" label="дания">
 <attvalues/>
-</node><node id="58" label="венгрия">
+</node><node id="венгрия" label="венгрия">
 <attvalues/>
-</node><node id="59" label="египет">
+</node><node id="египет" label="египет">
 <attvalues/>
-</node><node id="60" label="судан">
+</node><node id="судан" label="судан">
 <attvalues/>
 </node></nodes>
-<edges><edge id="0" source="22" target="18"><attvalues>
+<edges><edge id="0" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="1" source="22" target="19"><attvalues>
+</edge><edge id="1" source="россия" target="йемен"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="2" source="18" target="19"><attvalues>
+</edge><edge id="2" source="китай" target="йемен"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="3" source="29" target="31"><attvalues>
+</edge><edge id="3" source="канада" target="германия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="4" source="29" target="54"><attvalues>
+</edge><edge id="4" source="канада" target="франция"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="5" source="29" target="55"><attvalues>
+</edge><edge id="5" source="канада" target="англия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="6" source="29" target="42"><attvalues>
+</edge><edge id="6" source="канада" target="великобритания"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="7" source="29" target="22"><attvalues>
+</edge><edge id="7" source="канада" target="россия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="8" source="31" target="54"><attvalues>
+</edge><edge id="8" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="9" source="31" target="55"><attvalues>
+</edge><edge id="9" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="10" source="31" target="42"><attvalues>
+</edge><edge id="10" source="германия" target="великобритания"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="11" source="31" target="22"><attvalues>
+</edge><edge id="11" source="германия" target="россия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="12" source="54" target="55"><attvalues>
+</edge><edge id="12" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="13" source="54" target="42"><attvalues>
+</edge><edge id="13" source="франция" target="великобритания"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="14" source="54" target="22"><attvalues>
+</edge><edge id="14" source="франция" target="россия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="15" source="55" target="42"><attvalues>
+</edge><edge id="15" source="англия" target="великобритания"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="16" source="55" target="22"><attvalues>
+</edge><edge id="16" source="англия" target="россия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="17" source="42" target="22"><attvalues>
+</edge><edge id="17" source="великобритания" target="россия"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="18" source="22" target="47"><attvalues>
+</edge><edge id="18" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="19" source="22" target="55"><attvalues>
+</edge><edge id="19" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="20" source="47" target="55"><attvalues>
+</edge><edge id="20" source="польша" target="англия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="21" source="45" target="16"><attvalues>
+</edge><edge id="21" source="испания" target="никарагуа"><attvalues>
 <attvalue for="0" value="Кирсанов С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="22" source="22" target="12"><attvalues>
+</edge><edge id="22" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Майков В.И."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="23" source="22" target="11"><attvalues>
+</edge><edge id="23" source="россия" target="мальта"><attvalues>
 <attvalue for="0" value="Шенгели Г.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="24" source="22" target="54"><attvalues>
+</edge><edge id="24" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Безыменский А.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="25" source="18" target="55"><attvalues>
+</edge><edge id="25" source="китай" target="англия"><attvalues>
 <attvalue for="0" value="Елагин И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="26" source="22" target="47"><attvalues>
+</edge><edge id="26" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="27" source="22" target="47"><attvalues>
+</edge><edge id="27" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Хомяков А.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="28" source="22" target="7"><attvalues>
+</edge><edge id="28" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Майков В.И."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="29" source="59" target="22"><attvalues>
+</edge><edge id="29" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="30" source="59" target="7"><attvalues>
+</edge><edge id="30" source="египет" target="греция"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="31" source="59" target="13"><attvalues>
+</edge><edge id="31" source="египет" target="израиль"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="32" source="22" target="7"><attvalues>
+</edge><edge id="32" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="33" source="22" target="13"><attvalues>
+</edge><edge id="33" source="россия" target="израиль"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="34" source="7" target="13"><attvalues>
+</edge><edge id="34" source="греция" target="израиль"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="35" source="59" target="6"><attvalues>
+</edge><edge id="35" source="египет" target="тунис"><attvalues>
 <attvalue for="0" value="Толстой А.К."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="36" source="22" target="31"><attvalues>
+</edge><edge id="36" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="37" source="22" target="47"><attvalues>
+</edge><edge id="37" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="38" source="22" target="18"><attvalues>
+</edge><edge id="38" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="39" source="31" target="47"><attvalues>
+</edge><edge id="39" source="германия" target="польша"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="40" source="31" target="18"><attvalues>
+</edge><edge id="40" source="германия" target="китай"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="41" source="47" target="18"><attvalues>
+</edge><edge id="41" source="польша" target="китай"><attvalues>
 <attvalue for="0" value="Эренбург И.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="42" source="59" target="22"><attvalues>
+</edge><edge id="42" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="43" source="59" target="27"><attvalues>
+</edge><edge id="43" source="египет" target="индия"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="44" source="22" target="27"><attvalues>
+</edge><edge id="44" source="россия" target="индия"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="45" source="22" target="28"><attvalues>
+</edge><edge id="45" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="46" source="22" target="47"><attvalues>
+</edge><edge id="46" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="47" source="51" target="1"><attvalues>
+</edge><edge id="47" source="италия" target="ливия"><attvalues>
 <attvalue for="0" value="Кантемир А. Д."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="48" source="51" target="7"><attvalues>
+</edge><edge id="48" source="италия" target="греция"><attvalues>
 <attvalue for="0" value="Кантемир А. Д."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="49" source="1" target="7"><attvalues>
+</edge><edge id="49" source="ливия" target="греция"><attvalues>
 <attvalue for="0" value="Кантемир А. Д."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="50" source="36" target="18"><attvalues>
+</edge><edge id="50" source="алжир" target="китай"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="51" source="22" target="7"><attvalues>
+</edge><edge id="51" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Муравьев М.Н."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="52" source="22" target="12"><attvalues>
+</edge><edge id="52" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Муравьев М.Н."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="53" source="7" target="12"><attvalues>
+</edge><edge id="53" source="греция" target="литва"><attvalues>
 <attvalue for="0" value="Муравьев М.Н."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="54" source="51" target="22"><attvalues>
+</edge><edge id="54" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="55" source="51" target="18"><attvalues>
+</edge><edge id="55" source="италия" target="китай"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="56" source="51" target="54"><attvalues>
+</edge><edge id="56" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="57" source="22" target="18"><attvalues>
+</edge><edge id="57" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="58" source="22" target="54"><attvalues>
+</edge><edge id="58" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="59" source="18" target="54"><attvalues>
+</edge><edge id="59" source="китай" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="60" source="27" target="40"><attvalues>
+</edge><edge id="60" source="индия" target="ливан"><attvalues>
 <attvalue for="0" value="Введенский А.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="61" source="30" target="31"><attvalues>
+</edge><edge id="61" source="латвия" target="германия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="62" source="30" target="54"><attvalues>
+</edge><edge id="62" source="латвия" target="франция"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="63" source="30" target="55"><attvalues>
+</edge><edge id="63" source="латвия" target="англия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="64" source="30" target="21"><attvalues>
+</edge><edge id="64" source="латвия" target="швейцария"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="65" source="30" target="39"><attvalues>
+</edge><edge id="65" source="латвия" target="австралия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="66" source="30" target="26"><attvalues>
+</edge><edge id="66" source="латвия" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="67" source="31" target="54"><attvalues>
+</edge><edge id="67" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="68" source="31" target="55"><attvalues>
+</edge><edge id="68" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="69" source="31" target="21"><attvalues>
+</edge><edge id="69" source="германия" target="швейцария"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="70" source="31" target="39"><attvalues>
+</edge><edge id="70" source="германия" target="австралия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="71" source="31" target="26"><attvalues>
+</edge><edge id="71" source="германия" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="72" source="54" target="55"><attvalues>
+</edge><edge id="72" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="73" source="54" target="21"><attvalues>
+</edge><edge id="73" source="франция" target="швейцария"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="74" source="54" target="39"><attvalues>
+</edge><edge id="74" source="франция" target="австралия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="75" source="54" target="26"><attvalues>
+</edge><edge id="75" source="франция" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="76" source="55" target="21"><attvalues>
+</edge><edge id="76" source="англия" target="швейцария"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="77" source="55" target="39"><attvalues>
+</edge><edge id="77" source="англия" target="австралия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="78" source="55" target="26"><attvalues>
+</edge><edge id="78" source="англия" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="79" source="21" target="39"><attvalues>
+</edge><edge id="79" source="швейцария" target="австралия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="80" source="21" target="26"><attvalues>
+</edge><edge id="80" source="швейцария" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="81" source="39" target="26"><attvalues>
+</edge><edge id="81" source="австралия" target="сербия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="82" source="22" target="7"><attvalues>
+</edge><edge id="82" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Палицын А.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="83" source="22" target="15"><attvalues>
+</edge><edge id="83" source="россия" target="иран"><attvalues>
 <attvalue for="0" value="Языков Н. М."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="84" source="22" target="18"><attvalues>
+</edge><edge id="84" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="85" source="22" target="9"><attvalues>
+</edge><edge id="85" source="россия" target="аргентина"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="86" source="18" target="9"><attvalues>
+</edge><edge id="86" source="китай" target="аргентина"><attvalues>
 <attvalue for="0" value="Сергеев А.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="87" source="21" target="22"><attvalues>
+</edge><edge id="87" source="швейцария" target="россия"><attvalues>
 <attvalue for="0" value="Мятлев И.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="88" source="22" target="37"><attvalues>
+</edge><edge id="88" source="россия" target="гибралтар"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="89" source="22" target="27"><attvalues>
+</edge><edge id="89" source="россия" target="индия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="90" source="37" target="27"><attvalues>
+</edge><edge id="90" source="гибралтар" target="индия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="91" source="57" target="54"><attvalues>
+</edge><edge id="91" source="дания" target="франция"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="92" source="22" target="31"><attvalues>
+</edge><edge id="92" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Волошин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="93" source="22" target="5"><attvalues>
+</edge><edge id="93" source="россия" target="австрия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="94" source="21" target="22"><attvalues>
+</edge><edge id="94" source="швейцария" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="95" source="21" target="24"><attvalues>
+</edge><edge id="95" source="швейцария" target="финляндия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="96" source="22" target="24"><attvalues>
+</edge><edge id="96" source="россия" target="финляндия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="97" source="22" target="47"><attvalues>
+</edge><edge id="97" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="98" source="22" target="12"><attvalues>
+</edge><edge id="98" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="99" source="47" target="12"><attvalues>
+</edge><edge id="99" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="100" source="30" target="18"><attvalues>
+</edge><edge id="100" source="латвия" target="китай"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="101" source="30" target="54"><attvalues>
+</edge><edge id="101" source="латвия" target="франция"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="102" source="30" target="34"><attvalues>
+</edge><edge id="102" source="латвия" target="чехия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="103" source="30" target="35"><attvalues>
+</edge><edge id="103" source="латвия" target="узбекистан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="104" source="30" target="22"><attvalues>
+</edge><edge id="104" source="латвия" target="россия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="105" source="30" target="60"><attvalues>
+</edge><edge id="105" source="латвия" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="106" source="30" target="12"><attvalues>
+</edge><edge id="106" source="латвия" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="107" source="18" target="54"><attvalues>
+</edge><edge id="107" source="китай" target="франция"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="108" source="18" target="34"><attvalues>
+</edge><edge id="108" source="китай" target="чехия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="109" source="18" target="35"><attvalues>
+</edge><edge id="109" source="китай" target="узбекистан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="110" source="18" target="22"><attvalues>
+</edge><edge id="110" source="китай" target="россия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="111" source="18" target="60"><attvalues>
+</edge><edge id="111" source="китай" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="112" source="18" target="12"><attvalues>
+</edge><edge id="112" source="китай" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="113" source="54" target="34"><attvalues>
+</edge><edge id="113" source="франция" target="чехия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="114" source="54" target="35"><attvalues>
+</edge><edge id="114" source="франция" target="узбекистан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="115" source="54" target="22"><attvalues>
+</edge><edge id="115" source="франция" target="россия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="116" source="54" target="60"><attvalues>
+</edge><edge id="116" source="франция" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="117" source="54" target="12"><attvalues>
+</edge><edge id="117" source="франция" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="118" source="34" target="35"><attvalues>
+</edge><edge id="118" source="чехия" target="узбекистан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="119" source="34" target="22"><attvalues>
+</edge><edge id="119" source="чехия" target="россия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="120" source="34" target="60"><attvalues>
+</edge><edge id="120" source="чехия" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="121" source="34" target="12"><attvalues>
+</edge><edge id="121" source="чехия" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="122" source="35" target="22"><attvalues>
+</edge><edge id="122" source="узбекистан" target="россия"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="123" source="35" target="60"><attvalues>
+</edge><edge id="123" source="узбекистан" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="124" source="35" target="12"><attvalues>
+</edge><edge id="124" source="узбекистан" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="125" source="22" target="60"><attvalues>
+</edge><edge id="125" source="россия" target="судан"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="126" source="22" target="12"><attvalues>
+</edge><edge id="126" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="127" source="60" target="12"><attvalues>
+</edge><edge id="127" source="судан" target="литва"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="128" source="22" target="54"><attvalues>
+</edge><edge id="128" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="А.С. Грибоедов"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="129" source="22" target="40"><attvalues>
+</edge><edge id="129" source="россия" target="ливан"><attvalues>
 <attvalue for="0" value="Ширинский-Шихматов С.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="130" source="22" target="18"><attvalues>
+</edge><edge id="130" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Ломоносов М. В."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="131" source="31" target="18"><attvalues>
+</edge><edge id="131" source="германия" target="китай"><attvalues>
 <attvalue for="0" value="Антокольский П.Г."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="132" source="22" target="7"><attvalues>
+</edge><edge id="132" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="133" source="22" target="31"><attvalues>
+</edge><edge id="133" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Симонов К.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="134" source="22" target="57"><attvalues>
+</edge><edge id="134" source="россия" target="дания"><attvalues>
 <attvalue for="0" value="Симонов К.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="135" source="31" target="57"><attvalues>
+</edge><edge id="135" source="германия" target="дания"><attvalues>
 <attvalue for="0" value="Симонов К.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="136" source="54" target="55"><attvalues>
+</edge><edge id="136" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Лившиц Б.К."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="137" source="22" target="40"><attvalues>
+</edge><edge id="137" source="россия" target="ливан"><attvalues>
 <attvalue for="0" value="Ширинский-Шихматов С.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="138" source="22" target="31"><attvalues>
+</edge><edge id="138" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Мятлев И.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="139" source="15" target="18"><attvalues>
+</edge><edge id="139" source="иран" target="китай"><attvalues>
 <attvalue for="0" value="Козлов И. И."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="140" source="51" target="22"><attvalues>
+</edge><edge id="140" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Черный С. (Гликберг А.М.)"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="141" source="51" target="31"><attvalues>
+</edge><edge id="141" source="италия" target="германия"><attvalues>
 <attvalue for="0" value="Родзянка А.Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="142" source="51" target="7"><attvalues>
+</edge><edge id="142" source="италия" target="греция"><attvalues>
 <attvalue for="0" value="Родзянка А.Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="143" source="31" target="7"><attvalues>
+</edge><edge id="143" source="германия" target="греция"><attvalues>
 <attvalue for="0" value="Родзянка А.Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="144" source="51" target="47"><attvalues>
+</edge><edge id="144" source="италия" target="польша"><attvalues>
 <attvalue for="0" value="Апухтин А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="145" source="51" target="54"><attvalues>
+</edge><edge id="145" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Апухтин А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="146" source="47" target="54"><attvalues>
+</edge><edge id="146" source="польша" target="франция"><attvalues>
 <attvalue for="0" value="Апухтин А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="147" source="22" target="47"><attvalues>
+</edge><edge id="147" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="148" source="22" target="12"><attvalues>
+</edge><edge id="148" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="149" source="47" target="12"><attvalues>
+</edge><edge id="149" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="150" source="31" target="54"><attvalues>
+</edge><edge id="150" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Неизвестный"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="151" source="51" target="22"><attvalues>
+</edge><edge id="151" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="152" source="51" target="46"><attvalues>
+</edge><edge id="152" source="италия" target="турция"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="153" source="51" target="47"><attvalues>
+</edge><edge id="153" source="италия" target="польша"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="154" source="51" target="12"><attvalues>
+</edge><edge id="154" source="италия" target="литва"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="155" source="22" target="46"><attvalues>
+</edge><edge id="155" source="россия" target="турция"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="156" source="22" target="47"><attvalues>
+</edge><edge id="156" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="157" source="22" target="12"><attvalues>
+</edge><edge id="157" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="158" source="46" target="47"><attvalues>
+</edge><edge id="158" source="турция" target="польша"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="159" source="46" target="12"><attvalues>
+</edge><edge id="159" source="турция" target="литва"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="160" source="47" target="12"><attvalues>
+</edge><edge id="160" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Кедрин Д.Б."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="161" source="51" target="22"><attvalues>
+</edge><edge id="161" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="162" source="51" target="41"><attvalues>
+</edge><edge id="162" source="италия" target="белоруссия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="163" source="51" target="50"><attvalues>
+</edge><edge id="163" source="италия" target="коморы"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="164" source="22" target="41"><attvalues>
+</edge><edge id="164" source="россия" target="белоруссия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="165" source="22" target="50"><attvalues>
+</edge><edge id="165" source="россия" target="коморы"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="166" source="41" target="50"><attvalues>
+</edge><edge id="166" source="белоруссия" target="коморы"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="167" source="22" target="54"><attvalues>
+</edge><edge id="167" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Николев Н.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="168" source="22" target="41"><attvalues>
+</edge><edge id="168" source="россия" target="белоруссия"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="169" source="22" target="28"><attvalues>
+</edge><edge id="169" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="170" source="41" target="28"><attvalues>
+</edge><edge id="170" source="белоруссия" target="украина"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="171" source="59" target="27"><attvalues>
+</edge><edge id="171" source="египет" target="индия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="172" source="59" target="53"><attvalues>
+</edge><edge id="172" source="египет" target="азербайджан"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="173" source="59" target="18"><attvalues>
+</edge><edge id="173" source="египет" target="китай"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="174" source="27" target="53"><attvalues>
+</edge><edge id="174" source="индия" target="азербайджан"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="175" source="27" target="18"><attvalues>
+</edge><edge id="175" source="индия" target="китай"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="176" source="53" target="18"><attvalues>
+</edge><edge id="176" source="азербайджан" target="китай"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="177" source="22" target="54"><attvalues>
+</edge><edge id="177" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Толстой А.К."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="178" source="39" target="31"><attvalues>
+</edge><edge id="178" source="австралия" target="германия"><attvalues>
 <attvalue for="0" value="Горянский В.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="179" source="59" target="7"><attvalues>
+</edge><edge id="179" source="египет" target="греция"><attvalues>
 <attvalue for="0" value="Батюшков К. Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="180" source="22" target="12"><attvalues>
+</edge><edge id="180" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Дельвиг А.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="181" source="51" target="45"><attvalues>
+</edge><edge id="181" source="италия" target="испания"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="182" source="51" target="10"><attvalues>
+</edge><edge id="182" source="италия" target="грузия"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="183" source="51" target="55"><attvalues>
+</edge><edge id="183" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="184" source="45" target="10"><attvalues>
+</edge><edge id="184" source="испания" target="грузия"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="185" source="45" target="55"><attvalues>
+</edge><edge id="185" source="испания" target="англия"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="186" source="10" target="55"><attvalues>
+</edge><edge id="186" source="грузия" target="англия"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="187" source="22" target="47"><attvalues>
+</edge><edge id="187" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Блок А.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="188" source="22" target="31"><attvalues>
+</edge><edge id="188" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="189" source="22" target="47"><attvalues>
+</edge><edge id="189" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="190" source="22" target="55"><attvalues>
+</edge><edge id="190" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="191" source="31" target="47"><attvalues>
+</edge><edge id="191" source="германия" target="польша"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="192" source="31" target="55"><attvalues>
+</edge><edge id="192" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="193" source="47" target="55"><attvalues>
+</edge><edge id="193" source="польша" target="англия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="194" source="22" target="7"><attvalues>
+</edge><edge id="194" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Муравьев М.Н."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="195" source="35" target="22"><attvalues>
+</edge><edge id="195" source="узбекистан" target="россия"><attvalues>
 <attvalue for="0" value="Корнилов Б.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="196" source="35" target="28"><attvalues>
+</edge><edge id="196" source="узбекистан" target="украина"><attvalues>
 <attvalue for="0" value="Корнилов Б.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="197" source="22" target="28"><attvalues>
+</edge><edge id="197" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Корнилов Б.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="198" source="59" target="15"><attvalues>
+</edge><edge id="198" source="египет" target="иран"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="199" source="59" target="27"><attvalues>
+</edge><edge id="199" source="египет" target="индия"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="200" source="59" target="19"><attvalues>
+</edge><edge id="200" source="египет" target="йемен"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="201" source="59" target="43"><attvalues>
+</edge><edge id="201" source="египет" target="оман"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="202" source="15" target="27"><attvalues>
+</edge><edge id="202" source="иран" target="индия"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="203" source="15" target="19"><attvalues>
+</edge><edge id="203" source="иран" target="йемен"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="204" source="15" target="43"><attvalues>
+</edge><edge id="204" source="иран" target="оман"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="205" source="27" target="19"><attvalues>
+</edge><edge id="205" source="индия" target="йемен"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="206" source="27" target="43"><attvalues>
+</edge><edge id="206" source="индия" target="оман"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="207" source="19" target="43"><attvalues>
+</edge><edge id="207" source="йемен" target="оман"><attvalues>
 <attvalue for="0" value="Адамович Г. В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="208" source="27" target="31"><attvalues>
+</edge><edge id="208" source="индия" target="германия"><attvalues>
 <attvalue for="0" value="Цветаева М.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="209" source="14" target="45"><attvalues>
+</edge><edge id="209" source="норвегия" target="испания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="210" source="14" target="46"><attvalues>
+</edge><edge id="210" source="норвегия" target="турция"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="211" source="14" target="47"><attvalues>
+</edge><edge id="211" source="норвегия" target="польша"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="212" source="14" target="5"><attvalues>
+</edge><edge id="212" source="норвегия" target="австрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="213" source="14" target="55"><attvalues>
+</edge><edge id="213" source="норвегия" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="214" source="14" target="57"><attvalues>
+</edge><edge id="214" source="норвегия" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="215" source="14" target="58"><attvalues>
+</edge><edge id="215" source="норвегия" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="216" source="14" target="12"><attvalues>
+</edge><edge id="216" source="норвегия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="217" source="14" target="25"><attvalues>
+</edge><edge id="217" source="норвегия" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="218" source="45" target="46"><attvalues>
+</edge><edge id="218" source="испания" target="турция"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="219" source="45" target="47"><attvalues>
+</edge><edge id="219" source="испания" target="польша"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="220" source="45" target="5"><attvalues>
+</edge><edge id="220" source="испания" target="австрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="221" source="45" target="55"><attvalues>
+</edge><edge id="221" source="испания" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="222" source="45" target="57"><attvalues>
+</edge><edge id="222" source="испания" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="223" source="45" target="58"><attvalues>
+</edge><edge id="223" source="испания" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="224" source="45" target="12"><attvalues>
+</edge><edge id="224" source="испания" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="225" source="45" target="25"><attvalues>
+</edge><edge id="225" source="испания" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="226" source="46" target="47"><attvalues>
+</edge><edge id="226" source="турция" target="польша"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="227" source="46" target="5"><attvalues>
+</edge><edge id="227" source="турция" target="австрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="228" source="46" target="55"><attvalues>
+</edge><edge id="228" source="турция" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="229" source="46" target="57"><attvalues>
+</edge><edge id="229" source="турция" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="230" source="46" target="58"><attvalues>
+</edge><edge id="230" source="турция" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="231" source="46" target="12"><attvalues>
+</edge><edge id="231" source="турция" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="232" source="46" target="25"><attvalues>
+</edge><edge id="232" source="турция" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="233" source="47" target="5"><attvalues>
+</edge><edge id="233" source="польша" target="австрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="234" source="47" target="55"><attvalues>
+</edge><edge id="234" source="польша" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="235" source="47" target="57"><attvalues>
+</edge><edge id="235" source="польша" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="236" source="47" target="58"><attvalues>
+</edge><edge id="236" source="польша" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="237" source="47" target="12"><attvalues>
+</edge><edge id="237" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="238" source="47" target="25"><attvalues>
+</edge><edge id="238" source="польша" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="239" source="5" target="55"><attvalues>
+</edge><edge id="239" source="австрия" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="240" source="5" target="57"><attvalues>
+</edge><edge id="240" source="австрия" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="241" source="5" target="58"><attvalues>
+</edge><edge id="241" source="австрия" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="242" source="5" target="12"><attvalues>
+</edge><edge id="242" source="австрия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="243" source="5" target="25"><attvalues>
+</edge><edge id="243" source="австрия" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="244" source="55" target="57"><attvalues>
+</edge><edge id="244" source="англия" target="дания"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="245" source="55" target="58"><attvalues>
+</edge><edge id="245" source="англия" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="246" source="55" target="12"><attvalues>
+</edge><edge id="246" source="англия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="247" source="55" target="25"><attvalues>
+</edge><edge id="247" source="англия" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="248" source="57" target="58"><attvalues>
+</edge><edge id="248" source="дания" target="венгрия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="249" source="57" target="12"><attvalues>
+</edge><edge id="249" source="дания" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="250" source="57" target="25"><attvalues>
+</edge><edge id="250" source="дания" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="251" source="58" target="12"><attvalues>
+</edge><edge id="251" source="венгрия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="252" source="58" target="25"><attvalues>
+</edge><edge id="252" source="венгрия" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="253" source="12" target="25"><attvalues>
+</edge><edge id="253" source="литва" target="эстония"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="254" source="47" target="18"><attvalues>
+</edge><edge id="254" source="польша" target="китай"><attvalues>
 <attvalue for="0" value="Светлов М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="255" source="18" target="56"><attvalues>
+</edge><edge id="255" source="китай" target="казахстан"><attvalues>
 <attvalue for="0" value="Васильев П.Н."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="256" source="51" target="12"><attvalues>
+</edge><edge id="256" source="италия" target="литва"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="257" source="59" target="22"><attvalues>
+</edge><edge id="257" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Петров В.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="258" source="22" target="31"><attvalues>
+</edge><edge id="258" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="259" source="22" target="1"><attvalues>
+</edge><edge id="259" source="россия" target="ливия"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="260" source="22" target="7"><attvalues>
+</edge><edge id="260" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="261" source="31" target="1"><attvalues>
+</edge><edge id="261" source="германия" target="ливия"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="262" source="31" target="7"><attvalues>
+</edge><edge id="262" source="германия" target="греция"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="263" source="1" target="7"><attvalues>
+</edge><edge id="263" source="ливия" target="греция"><attvalues>
 <attvalue for="0" value="Филимонов В.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="264" source="51" target="54"><attvalues>
+</edge><edge id="264" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Лившиц Б.К."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="265" source="51" target="55"><attvalues>
+</edge><edge id="265" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Лившиц Б.К."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="266" source="54" target="55"><attvalues>
+</edge><edge id="266" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Лившиц Б.К."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="267" source="51" target="22"><attvalues>
+</edge><edge id="267" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="268" source="51" target="31"><attvalues>
+</edge><edge id="268" source="италия" target="германия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="269" source="51" target="54"><attvalues>
+</edge><edge id="269" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="270" source="22" target="31"><attvalues>
+</edge><edge id="270" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="271" source="22" target="54"><attvalues>
+</edge><edge id="271" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="272" source="31" target="54"><attvalues>
+</edge><edge id="272" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="273" source="22" target="18"><attvalues>
+</edge><edge id="273" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="274" source="22" target="12"><attvalues>
+</edge><edge id="274" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="275" source="18" target="12"><attvalues>
+</edge><edge id="275" source="китай" target="литва"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="276" source="59" target="36"><attvalues>
+</edge><edge id="276" source="египет" target="алжир"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="277" source="18" target="55"><attvalues>
+</edge><edge id="277" source="китай" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="278" source="22" target="28"><attvalues>
+</edge><edge id="278" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="279" source="22" target="7"><attvalues>
+</edge><edge id="279" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="280" source="22" target="47"><attvalues>
+</edge><edge id="280" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Садовской Б.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="281" source="22" target="47"><attvalues>
+</edge><edge id="281" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Волошин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="282" source="22" target="28"><attvalues>
+</edge><edge id="282" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Волошин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="283" source="47" target="28"><attvalues>
+</edge><edge id="283" source="польша" target="украина"><attvalues>
 <attvalue for="0" value="Волошин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="284" source="47" target="28"><attvalues>
+</edge><edge id="284" source="польша" target="украина"><attvalues>
 <attvalue for="0" value="Лавров Л.А"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="285" source="47" target="2"><attvalues>
+</edge><edge id="285" source="польша" target="бельгия"><attvalues>
 <attvalue for="0" value="Лавров Л.А"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="286" source="28" target="2"><attvalues>
+</edge><edge id="286" source="украина" target="бельгия"><attvalues>
 <attvalue for="0" value="Лавров Л.А"/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="287" source="22" target="4"><attvalues>
+</edge><edge id="287" source="россия" target="гвинея"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="288" source="22" target="54"><attvalues>
+</edge><edge id="288" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="289" source="4" target="54"><attvalues>
+</edge><edge id="289" source="гвинея" target="франция"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="290" source="22" target="27"><attvalues>
+</edge><edge id="290" source="россия" target="индия"><attvalues>
 <attvalue for="0" value="Петров В.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="291" source="59" target="8"><attvalues>
+</edge><edge id="291" source="египет" target="ватикан"><attvalues>
 <attvalue for="0" value="Мятлев И.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="292" source="59" target="22"><attvalues>
+</edge><edge id="292" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="293" source="51" target="31"><attvalues>
+</edge><edge id="293" source="италия" target="германия"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="294" source="0" target="49"><attvalues>
+</edge><edge id="294" source="шотландия" target="сомали"><attvalues>
 <attvalue for="0" value="Гумилев Н.С."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="295" source="59" target="2"><attvalues>
+</edge><edge id="295" source="египет" target="бельгия"><attvalues>
 <attvalue for="0" value="Мандельштам О.Э."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="296" source="59" target="38"><attvalues>
+</edge><edge id="296" source="египет" target="люксембург"><attvalues>
 <attvalue for="0" value="Мандельштам О.Э."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="297" source="2" target="38"><attvalues>
+</edge><edge id="297" source="бельгия" target="люксембург"><attvalues>
 <attvalue for="0" value="Мандельштам О.Э."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="298" source="59" target="40"><attvalues>
+</edge><edge id="298" source="египет" target="ливан"><attvalues>
 <attvalue for="0" value="Кузмин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="299" source="51" target="21"><attvalues>
+</edge><edge id="299" source="италия" target="швейцария"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="300" source="51" target="31"><attvalues>
+</edge><edge id="300" source="италия" target="германия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="301" source="51" target="59"><attvalues>
+</edge><edge id="301" source="италия" target="египет"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="302" source="51" target="55"><attvalues>
+</edge><edge id="302" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="303" source="21" target="31"><attvalues>
+</edge><edge id="303" source="швейцария" target="германия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="304" source="21" target="59"><attvalues>
+</edge><edge id="304" source="швейцария" target="египет"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="305" source="21" target="55"><attvalues>
+</edge><edge id="305" source="швейцария" target="англия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="306" source="31" target="59"><attvalues>
+</edge><edge id="306" source="германия" target="египет"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="307" source="31" target="55"><attvalues>
+</edge><edge id="307" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="308" source="59" target="55"><attvalues>
+</edge><edge id="308" source="египет" target="англия"><attvalues>
 <attvalue for="0" value="Лермонтов М. Ю."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="309" source="45" target="54"><attvalues>
+</edge><edge id="309" source="испания" target="франция"><attvalues>
 <attvalue for="0" value="Мандельштам О.Э."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="310" source="31" target="12"><attvalues>
+</edge><edge id="310" source="германия" target="литва"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="311" source="32" target="18"><attvalues>
+</edge><edge id="311" source="марокко" target="китай"><attvalues>
 <attvalue for="0" value="Миллер Ф.Б."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="312" source="51" target="18"><attvalues>
+</edge><edge id="312" source="италия" target="китай"><attvalues>
 <attvalue for="0" value="Кантемир А. Д."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="313" source="51" target="13"><attvalues>
+</edge><edge id="313" source="италия" target="израиль"><attvalues>
 <attvalue for="0" value="Сумароков А.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="314" source="8" target="59"><attvalues>
+</edge><edge id="314" source="ватикан" target="египет"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="315" source="8" target="31"><attvalues>
+</edge><edge id="315" source="ватикан" target="германия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="316" source="59" target="31"><attvalues>
+</edge><edge id="316" source="египет" target="германия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="317" source="45" target="27"><attvalues>
+</edge><edge id="317" source="испания" target="индия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="318" source="45" target="30"><attvalues>
+</edge><edge id="318" source="испания" target="латвия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="319" source="45" target="31"><attvalues>
+</edge><edge id="319" source="испания" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="320" source="45" target="33"><attvalues>
+</edge><edge id="320" source="испания" target="япония"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="321" source="45" target="55"><attvalues>
+</edge><edge id="321" source="испания" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="322" source="45" target="21"><attvalues>
+</edge><edge id="322" source="испания" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="323" source="45" target="51"><attvalues>
+</edge><edge id="323" source="испания" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="324" source="45" target="39"><attvalues>
+</edge><edge id="324" source="испания" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="325" source="45" target="12"><attvalues>
+</edge><edge id="325" source="испания" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="326" source="27" target="30"><attvalues>
+</edge><edge id="326" source="индия" target="латвия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="327" source="27" target="31"><attvalues>
+</edge><edge id="327" source="индия" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="328" source="27" target="33"><attvalues>
+</edge><edge id="328" source="индия" target="япония"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="329" source="27" target="55"><attvalues>
+</edge><edge id="329" source="индия" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="330" source="27" target="21"><attvalues>
+</edge><edge id="330" source="индия" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="331" source="27" target="51"><attvalues>
+</edge><edge id="331" source="индия" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="332" source="27" target="39"><attvalues>
+</edge><edge id="332" source="индия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="333" source="27" target="12"><attvalues>
+</edge><edge id="333" source="индия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="334" source="30" target="31"><attvalues>
+</edge><edge id="334" source="латвия" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="335" source="30" target="33"><attvalues>
+</edge><edge id="335" source="латвия" target="япония"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="336" source="30" target="55"><attvalues>
+</edge><edge id="336" source="латвия" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="337" source="30" target="21"><attvalues>
+</edge><edge id="337" source="латвия" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="338" source="30" target="51"><attvalues>
+</edge><edge id="338" source="латвия" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="339" source="30" target="39"><attvalues>
+</edge><edge id="339" source="латвия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="340" source="30" target="12"><attvalues>
+</edge><edge id="340" source="латвия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="341" source="31" target="33"><attvalues>
+</edge><edge id="341" source="германия" target="япония"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="342" source="31" target="55"><attvalues>
+</edge><edge id="342" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="343" source="31" target="21"><attvalues>
+</edge><edge id="343" source="германия" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="344" source="31" target="51"><attvalues>
+</edge><edge id="344" source="германия" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="345" source="31" target="39"><attvalues>
+</edge><edge id="345" source="германия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="346" source="31" target="12"><attvalues>
+</edge><edge id="346" source="германия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="347" source="33" target="55"><attvalues>
+</edge><edge id="347" source="япония" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="348" source="33" target="21"><attvalues>
+</edge><edge id="348" source="япония" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="349" source="33" target="51"><attvalues>
+</edge><edge id="349" source="япония" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="350" source="33" target="39"><attvalues>
+</edge><edge id="350" source="япония" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="351" source="33" target="12"><attvalues>
+</edge><edge id="351" source="япония" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="352" source="55" target="21"><attvalues>
+</edge><edge id="352" source="англия" target="швейцария"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="353" source="55" target="51"><attvalues>
+</edge><edge id="353" source="англия" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="354" source="55" target="39"><attvalues>
+</edge><edge id="354" source="англия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="355" source="55" target="12"><attvalues>
+</edge><edge id="355" source="англия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="356" source="21" target="51"><attvalues>
+</edge><edge id="356" source="швейцария" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="357" source="21" target="39"><attvalues>
+</edge><edge id="357" source="швейцария" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="358" source="21" target="12"><attvalues>
+</edge><edge id="358" source="швейцария" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="359" source="51" target="39"><attvalues>
+</edge><edge id="359" source="италия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="360" source="51" target="12"><attvalues>
+</edge><edge id="360" source="италия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="361" source="39" target="12"><attvalues>
+</edge><edge id="361" source="австралия" target="литва"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="362" source="7" target="55"><attvalues>
+</edge><edge id="362" source="греция" target="англия"><attvalues>
 <attvalue for="0" value="Ломоносов М. В."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="363" source="22" target="28"><attvalues>
+</edge><edge id="363" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="364" source="22" target="47"><attvalues>
+</edge><edge id="364" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Вяземский П. А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="365" source="51" target="22"><attvalues>
+</edge><edge id="365" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Шевырев С.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="366" source="26" target="34"><attvalues>
+</edge><edge id="366" source="сербия" target="чехия"><attvalues>
 <attvalue for="0" value="Пастернак Б.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="367" source="22" target="31"><attvalues>
+</edge><edge id="367" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Ломоносов М. В."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="368" source="22" target="20"><attvalues>
+</edge><edge id="368" source="россия" target="швеция"><attvalues>
 <attvalue for="0" value="Ломоносов М. В."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="369" source="31" target="20"><attvalues>
+</edge><edge id="369" source="германия" target="швеция"><attvalues>
 <attvalue for="0" value="Ломоносов М. В."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="370" source="18" target="33"><attvalues>
+</edge><edge id="370" source="китай" target="япония"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="371" source="40" target="7"><attvalues>
+</edge><edge id="371" source="ливан" target="греция"><attvalues>
 <attvalue for="0" value="Богданович И.Ф."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="372" source="22" target="2"><attvalues>
+</edge><edge id="372" source="россия" target="бельгия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="373" source="8" target="22"><attvalues>
+</edge><edge id="373" source="ватикан" target="россия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="374" source="22" target="47"><attvalues>
+</edge><edge id="374" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="375" source="22" target="12"><attvalues>
+</edge><edge id="375" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="376" source="47" target="12"><attvalues>
+</edge><edge id="376" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="377" source="47" target="12"><attvalues>
+</edge><edge id="377" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Волошин М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="378" source="51" target="22"><attvalues>
+</edge><edge id="378" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="379" source="51" target="48"><attvalues>
+</edge><edge id="379" source="италия" target="молдавия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="380" source="22" target="48"><attvalues>
+</edge><edge id="380" source="россия" target="молдавия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="381" source="22" target="46"><attvalues>
+</edge><edge id="381" source="россия" target="турция"><attvalues>
 <attvalue for="0" value="Сельвинский И.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="382" source="22" target="31"><attvalues>
+</edge><edge id="382" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="383" source="22" target="47"><attvalues>
+</edge><edge id="383" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="384" source="22" target="56"><attvalues>
+</edge><edge id="384" source="россия" target="казахстан"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="385" source="31" target="47"><attvalues>
+</edge><edge id="385" source="германия" target="польша"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="386" source="31" target="56"><attvalues>
+</edge><edge id="386" source="германия" target="казахстан"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="387" source="47" target="56"><attvalues>
+</edge><edge id="387" source="польша" target="казахстан"><attvalues>
 <attvalue for="0" value="Липкин С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="388" source="47" target="12"><attvalues>
+</edge><edge id="388" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="389" source="27" target="47"><attvalues>
+</edge><edge id="389" source="индия" target="польша"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="390" source="27" target="31"><attvalues>
+</edge><edge id="390" source="индия" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="391" source="27" target="54"><attvalues>
+</edge><edge id="391" source="индия" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="392" source="27" target="22"><attvalues>
+</edge><edge id="392" source="индия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="393" source="27" target="39"><attvalues>
+</edge><edge id="393" source="индия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="394" source="47" target="31"><attvalues>
+</edge><edge id="394" source="польша" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="395" source="47" target="54"><attvalues>
+</edge><edge id="395" source="польша" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="396" source="47" target="22"><attvalues>
+</edge><edge id="396" source="польша" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="397" source="47" target="39"><attvalues>
+</edge><edge id="397" source="польша" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="398" source="31" target="54"><attvalues>
+</edge><edge id="398" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="399" source="31" target="22"><attvalues>
+</edge><edge id="399" source="германия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="400" source="31" target="39"><attvalues>
+</edge><edge id="400" source="германия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="401" source="54" target="22"><attvalues>
+</edge><edge id="401" source="франция" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="402" source="54" target="39"><attvalues>
+</edge><edge id="402" source="франция" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="403" source="22" target="39"><attvalues>
+</edge><edge id="403" source="россия" target="австралия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="404" source="22" target="54"><attvalues>
+</edge><edge id="404" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Чиннов И.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="405" source="14" target="22"><attvalues>
+</edge><edge id="405" source="норвегия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="406" source="22" target="47"><attvalues>
+</edge><edge id="406" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="407" source="22" target="18"><attvalues>
+</edge><edge id="407" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="408" source="22" target="18"><attvalues>
+</edge><edge id="408" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Бунина А.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="409" source="51" target="40"><attvalues>
+</edge><edge id="409" source="италия" target="ливан"><attvalues>
 <attvalue for="0" value="Батюшков К. Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="410" source="27" target="17"><attvalues>
+</edge><edge id="410" source="индия" target="таджикистан"><attvalues>
 <attvalue for="0" value="Адалис А.Е."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="411" source="22" target="7"><attvalues>
+</edge><edge id="411" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Вяземский П. А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="412" source="57" target="55"><attvalues>
+</edge><edge id="412" source="дания" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="413" source="57" target="12"><attvalues>
+</edge><edge id="413" source="дания" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="414" source="55" target="12"><attvalues>
+</edge><edge id="414" source="англия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="415" source="51" target="13"><attvalues>
+</edge><edge id="415" source="италия" target="израиль"><attvalues>
 <attvalue for="0" value="Ростопчина Е. П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="416" source="0" target="10"><attvalues>
+</edge><edge id="416" source="шотландия" target="грузия"><attvalues>
 <attvalue for="0" value="Иванов Г.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="417" source="59" target="27"><attvalues>
+</edge><edge id="417" source="египет" target="индия"><attvalues>
 <attvalue for="0" value="Адалис А.Е."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="418" source="59" target="53"><attvalues>
+</edge><edge id="418" source="египет" target="азербайджан"><attvalues>
 <attvalue for="0" value="Адалис А.Е."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="419" source="27" target="53"><attvalues>
+</edge><edge id="419" source="индия" target="азербайджан"><attvalues>
 <attvalue for="0" value="Адалис А.Е."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="420" source="31" target="55"><attvalues>
+</edge><edge id="420" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="421" source="31" target="47"><attvalues>
+</edge><edge id="421" source="германия" target="польша"><attvalues>
 <attvalue for="0" value="Иванов Г.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="422" source="22" target="54"><attvalues>
+</edge><edge id="422" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Майков А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="423" source="51" target="22"><attvalues>
+</edge><edge id="423" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Майков А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="424" source="22" target="3"><attvalues>
+</edge><edge id="424" source="россия" target="монголия"><attvalues>
 <attvalue for="0" value="Есенин С. А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="425" source="22" target="18"><attvalues>
+</edge><edge id="425" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Есенин С. А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="426" source="3" target="18"><attvalues>
+</edge><edge id="426" source="монголия" target="китай"><attvalues>
 <attvalue for="0" value="Есенин С. А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="427" source="22" target="31"><attvalues>
+</edge><edge id="427" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="428" source="22" target="24"><attvalues>
+</edge><edge id="428" source="россия" target="финляндия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="429" source="22" target="55"><attvalues>
+</edge><edge id="429" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="430" source="31" target="24"><attvalues>
+</edge><edge id="430" source="германия" target="финляндия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="431" source="31" target="55"><attvalues>
+</edge><edge id="431" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="432" source="24" target="55"><attvalues>
+</edge><edge id="432" source="финляндия" target="англия"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="433" source="46" target="51"><attvalues>
+</edge><edge id="433" source="турция" target="италия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="434" source="46" target="5"><attvalues>
+</edge><edge id="434" source="турция" target="австрия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="435" source="46" target="55"><attvalues>
+</edge><edge id="435" source="турция" target="англия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="436" source="46" target="54"><attvalues>
+</edge><edge id="436" source="турция" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="437" source="46" target="22"><attvalues>
+</edge><edge id="437" source="турция" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="438" source="46" target="57"><attvalues>
+</edge><edge id="438" source="турция" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="439" source="46" target="7"><attvalues>
+</edge><edge id="439" source="турция" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="440" source="46" target="34"><attvalues>
+</edge><edge id="440" source="турция" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="441" source="51" target="5"><attvalues>
+</edge><edge id="441" source="италия" target="австрия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="442" source="51" target="55"><attvalues>
+</edge><edge id="442" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="443" source="51" target="54"><attvalues>
+</edge><edge id="443" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="444" source="51" target="22"><attvalues>
+</edge><edge id="444" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="445" source="51" target="57"><attvalues>
+</edge><edge id="445" source="италия" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="446" source="51" target="7"><attvalues>
+</edge><edge id="446" source="италия" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="447" source="51" target="34"><attvalues>
+</edge><edge id="447" source="италия" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="448" source="5" target="55"><attvalues>
+</edge><edge id="448" source="австрия" target="англия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="449" source="5" target="54"><attvalues>
+</edge><edge id="449" source="австрия" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="450" source="5" target="22"><attvalues>
+</edge><edge id="450" source="австрия" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="451" source="5" target="57"><attvalues>
+</edge><edge id="451" source="австрия" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="452" source="5" target="7"><attvalues>
+</edge><edge id="452" source="австрия" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="453" source="5" target="34"><attvalues>
+</edge><edge id="453" source="австрия" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="454" source="55" target="54"><attvalues>
+</edge><edge id="454" source="англия" target="франция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="455" source="55" target="22"><attvalues>
+</edge><edge id="455" source="англия" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="456" source="55" target="57"><attvalues>
+</edge><edge id="456" source="англия" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="457" source="55" target="7"><attvalues>
+</edge><edge id="457" source="англия" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="458" source="55" target="34"><attvalues>
+</edge><edge id="458" source="англия" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="459" source="54" target="22"><attvalues>
+</edge><edge id="459" source="франция" target="россия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="460" source="54" target="57"><attvalues>
+</edge><edge id="460" source="франция" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="461" source="54" target="7"><attvalues>
+</edge><edge id="461" source="франция" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="462" source="54" target="34"><attvalues>
+</edge><edge id="462" source="франция" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="463" source="22" target="57"><attvalues>
+</edge><edge id="463" source="россия" target="дания"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="464" source="22" target="7"><attvalues>
+</edge><edge id="464" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="465" source="22" target="34"><attvalues>
+</edge><edge id="465" source="россия" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="466" source="57" target="7"><attvalues>
+</edge><edge id="466" source="дания" target="греция"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="467" source="57" target="34"><attvalues>
+</edge><edge id="467" source="дания" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="468" source="7" target="34"><attvalues>
+</edge><edge id="468" source="греция" target="чехия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="469" source="45" target="31"><attvalues>
+</edge><edge id="469" source="испания" target="германия"><attvalues>
 <attvalue for="0" value="Державин В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="470" source="22" target="47"><attvalues>
+</edge><edge id="470" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="471" source="18" target="44"><attvalues>
+</edge><edge id="471" source="китай" target="перу"><attvalues>
 <attvalue for="0" value="Кирсанов С.И."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="472" source="8" target="51"><attvalues>
+</edge><edge id="472" source="ватикан" target="италия"><attvalues>
 <attvalue for="0" value="Мятлев И.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="473" source="51" target="22"><attvalues>
+</edge><edge id="473" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Майков А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="474" source="51" target="54"><attvalues>
+</edge><edge id="474" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Майков А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="475" source="22" target="54"><attvalues>
+</edge><edge id="475" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Майков А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="476" source="51" target="40"><attvalues>
+</edge><edge id="476" source="италия" target="ливан"><attvalues>
 <attvalue for="0" value="Львов Н.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="477" source="51" target="22"><attvalues>
+</edge><edge id="477" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Львов Н.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="478" source="40" target="22"><attvalues>
+</edge><edge id="478" source="ливан" target="россия"><attvalues>
 <attvalue for="0" value="Львов Н.А."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="479" source="59" target="40"><attvalues>
+</edge><edge id="479" source="египет" target="ливан"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="480" source="59" target="7"><attvalues>
+</edge><edge id="480" source="египет" target="греция"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="481" source="59" target="13"><attvalues>
+</edge><edge id="481" source="египет" target="израиль"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="482" source="40" target="7"><attvalues>
+</edge><edge id="482" source="ливан" target="греция"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="483" source="40" target="13"><attvalues>
+</edge><edge id="483" source="ливан" target="израиль"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="484" source="7" target="13"><attvalues>
+</edge><edge id="484" source="греция" target="израиль"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="485" source="22" target="7"><attvalues>
+</edge><edge id="485" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="486" source="36" target="52"><attvalues>
+</edge><edge id="486" source="алжир" target="монако"><attvalues>
 <attvalue for="0" value="Щепкина-Куперник Т.Л."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="487" source="22" target="31"><attvalues>
+</edge><edge id="487" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Твардовский А.Т."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="488" source="22" target="18"><attvalues>
+</edge><edge id="488" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Луговской В.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="489" source="22" target="47"><attvalues>
+</edge><edge id="489" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="А.С. Пушкин"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="490" source="22" target="12"><attvalues>
+</edge><edge id="490" source="россия" target="литва"><attvalues>
 <attvalue for="0" value="А.С. Пушкин"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="491" source="47" target="12"><attvalues>
+</edge><edge id="491" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="А.С. Пушкин"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="492" source="22" target="54"><attvalues>
+</edge><edge id="492" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Майков В.И."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="493" source="22" target="54"><attvalues>
+</edge><edge id="493" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Елагин И.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="494" source="22" target="47"><attvalues>
+</edge><edge id="494" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Симонов К.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="495" source="22" target="18"><attvalues>
+</edge><edge id="495" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="496" source="22" target="47"><attvalues>
+</edge><edge id="496" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Светлов М.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="497" source="22" target="31"><attvalues>
+</edge><edge id="497" source="россия" target="германия"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="498" source="22" target="47"><attvalues>
+</edge><edge id="498" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="499" source="31" target="47"><attvalues>
+</edge><edge id="499" source="германия" target="польша"><attvalues>
 <attvalue for="0" value="Огарев Н.П."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="500" source="59" target="22"><attvalues>
+</edge><edge id="500" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Майков В.И."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="501" source="8" target="51"><attvalues>
+</edge><edge id="501" source="ватикан" target="италия"><attvalues>
 <attvalue for="0" value="Брюсов В.Я."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="502" source="51" target="22"><attvalues>
+</edge><edge id="502" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="503" source="51" target="46"><attvalues>
+</edge><edge id="503" source="италия" target="турция"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="504" source="51" target="54"><attvalues>
+</edge><edge id="504" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="505" source="51" target="55"><attvalues>
+</edge><edge id="505" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="506" source="22" target="46"><attvalues>
+</edge><edge id="506" source="россия" target="турция"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="507" source="22" target="54"><attvalues>
+</edge><edge id="507" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="508" source="22" target="55"><attvalues>
+</edge><edge id="508" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="509" source="46" target="54"><attvalues>
+</edge><edge id="509" source="турция" target="франция"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="510" source="46" target="55"><attvalues>
+</edge><edge id="510" source="турция" target="англия"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="511" source="54" target="55"><attvalues>
+</edge><edge id="511" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Бенедиктов В. Г."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="512" source="22" target="27"><attvalues>
+</edge><edge id="512" source="россия" target="индия"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="513" source="22" target="13"><attvalues>
+</edge><edge id="513" source="россия" target="израиль"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="514" source="27" target="13"><attvalues>
+</edge><edge id="514" source="индия" target="израиль"><attvalues>
 <attvalue for="0" value="Херасков М.М."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="515" source="59" target="22"><attvalues>
+</edge><edge id="515" source="египет" target="россия"><attvalues>
 <attvalue for="0" value="Петров В.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="516" source="8" target="22"><attvalues>
+</edge><edge id="516" source="ватикан" target="россия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="517" source="21" target="31"><attvalues>
+</edge><edge id="517" source="швейцария" target="германия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="518" source="21" target="33"><attvalues>
+</edge><edge id="518" source="швейцария" target="япония"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="519" source="21" target="5"><attvalues>
+</edge><edge id="519" source="швейцария" target="австрия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="520" source="31" target="33"><attvalues>
+</edge><edge id="520" source="германия" target="япония"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="521" source="31" target="5"><attvalues>
+</edge><edge id="521" source="германия" target="австрия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="522" source="33" target="5"><attvalues>
+</edge><edge id="522" source="япония" target="австрия"><attvalues>
 <attvalue for="0" value="Некрасов Н.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="523" source="22" target="18"><attvalues>
+</edge><edge id="523" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Клюев Н.А."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="524" source="22" target="47"><attvalues>
+</edge><edge id="524" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="525" source="22" target="28"><attvalues>
+</edge><edge id="525" source="россия" target="украина"><attvalues>
 <attvalue for="0" value="Корнилов Б.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="526" source="22" target="7"><attvalues>
+</edge><edge id="526" source="россия" target="греция"><attvalues>
 <attvalue for="0" value="Поповский Н.Н."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="527" source="51" target="7"><attvalues>
+</edge><edge id="527" source="италия" target="греция"><attvalues>
 <attvalue for="0" value="Петров В.П."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="528" source="22" target="47"><attvalues>
+</edge><edge id="528" source="россия" target="польша"><attvalues>
 <attvalue for="0" value="Уткин И.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="529" source="22" target="54"><attvalues>
+</edge><edge id="529" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="530" source="22" target="55"><attvalues>
+</edge><edge id="530" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="531" source="54" target="55"><attvalues>
+</edge><edge id="531" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="532" source="51" target="22"><attvalues>
+</edge><edge id="532" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="533" source="51" target="8"><attvalues>
+</edge><edge id="533" source="италия" target="ватикан"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="534" source="22" target="8"><attvalues>
+</edge><edge id="534" source="россия" target="ватикан"><attvalues>
 <attvalue for="0" value="Соловьев С.М."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="535" source="46" target="51"><attvalues>
+</edge><edge id="535" source="турция" target="италия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="536" source="46" target="31"><attvalues>
+</edge><edge id="536" source="турция" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="537" source="46" target="54"><attvalues>
+</edge><edge id="537" source="турция" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="538" source="46" target="55"><attvalues>
+</edge><edge id="538" source="турция" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="539" source="46" target="22"><attvalues>
+</edge><edge id="539" source="турция" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="540" source="51" target="31"><attvalues>
+</edge><edge id="540" source="италия" target="германия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="541" source="51" target="54"><attvalues>
+</edge><edge id="541" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="542" source="51" target="55"><attvalues>
+</edge><edge id="542" source="италия" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="543" source="51" target="22"><attvalues>
+</edge><edge id="543" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="544" source="31" target="54"><attvalues>
+</edge><edge id="544" source="германия" target="франция"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="545" source="31" target="55"><attvalues>
+</edge><edge id="545" source="германия" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="546" source="31" target="22"><attvalues>
+</edge><edge id="546" source="германия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="547" source="54" target="55"><attvalues>
+</edge><edge id="547" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="548" source="54" target="22"><attvalues>
+</edge><edge id="548" source="франция" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="549" source="55" target="22"><attvalues>
+</edge><edge id="549" source="англия" target="россия"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="550" source="0" target="51"><attvalues>
+</edge><edge id="550" source="шотландия" target="италия"><attvalues>
 <attvalue for="0" value="Габбе П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="551" source="0" target="7"><attvalues>
+</edge><edge id="551" source="шотландия" target="греция"><attvalues>
 <attvalue for="0" value="Габбе П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="552" source="51" target="7"><attvalues>
+</edge><edge id="552" source="италия" target="греция"><attvalues>
 <attvalue for="0" value="Габбе П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="553" source="22" target="13"><attvalues>
+</edge><edge id="553" source="россия" target="израиль"><attvalues>
 <attvalue for="0" value="Жуковский В.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="554" source="11" target="7"><attvalues>
+</edge><edge id="554" source="мальта" target="греция"><attvalues>
 <attvalue for="0" value="Державин Г.Р."/>
 <attvalue for="1" value="XVIII"/>
 </attvalues>
-</edge><edge id="555" source="22" target="54"><attvalues>
+</edge><edge id="555" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Жемчужников А.М."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="556" source="22" target="18"><attvalues>
+</edge><edge id="556" source="россия" target="китай"><attvalues>
 <attvalue for="0" value="Трефолев Л.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="557" source="22" target="54"><attvalues>
+</edge><edge id="557" source="россия" target="франция"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="558" source="22" target="55"><attvalues>
+</edge><edge id="558" source="россия" target="англия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="559" source="22" target="5"><attvalues>
+</edge><edge id="559" source="россия" target="австрия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="560" source="54" target="55"><attvalues>
+</edge><edge id="560" source="франция" target="англия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="561" source="54" target="5"><attvalues>
+</edge><edge id="561" source="франция" target="австрия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="562" source="55" target="5"><attvalues>
+</edge><edge id="562" source="англия" target="австрия"><attvalues>
 <attvalue for="0" value="Катенин П.А."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="563" source="51" target="22"><attvalues>
+</edge><edge id="563" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="564" source="51" target="48"><attvalues>
+</edge><edge id="564" source="италия" target="молдавия"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="565" source="22" target="48"><attvalues>
+</edge><edge id="565" source="россия" target="молдавия"><attvalues>
 <attvalue for="0" value="Пушкин А. С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="566" source="51" target="22"><attvalues>
+</edge><edge id="566" source="италия" target="россия"><attvalues>
 <attvalue for="0" value="Иволгин А.Н."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="567" source="22" target="10"><attvalues>
+</edge><edge id="567" source="россия" target="грузия"><attvalues>
 <attvalue for="0" value="Корнилов Б.П."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="568" source="22" target="15"><attvalues>
+</edge><edge id="568" source="россия" target="иран"><attvalues>
 <attvalue for="0" value="Хлебников В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="569" source="30" target="23"><attvalues>
+</edge><edge id="569" source="латвия" target="мексика"><attvalues>
 <attvalue for="0" value="Маяковский В.В."/>
 <attvalue for="1" value="XX"/>
 </attvalues>
-</edge><edge id="570" source="51" target="45"><attvalues>
+</edge><edge id="570" source="италия" target="испания"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="571" source="51" target="54"><attvalues>
+</edge><edge id="571" source="италия" target="франция"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="572" source="45" target="54"><attvalues>
+</edge><edge id="572" source="испания" target="франция"><attvalues>
 <attvalue for="0" value="Мережковский Д.С."/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="573" source="47" target="55"><attvalues>
+</edge><edge id="573" source="польша" target="англия"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="574" source="47" target="12"><attvalues>
+</edge><edge id="574" source="польша" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="575" source="47" target="28"><attvalues>
+</edge><edge id="575" source="польша" target="украина"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="576" source="55" target="12"><attvalues>
+</edge><edge id="576" source="англия" target="литва"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="577" source="55" target="28"><attvalues>
+</edge><edge id="577" source="англия" target="украина"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>
-</edge><edge id="578" source="12" target="28"><attvalues>
+</edge><edge id="578" source="литва" target="украина"><attvalues>
 <attvalue for="0" value="А.К. Толстой"/>
 <attvalue for="1" value="XIX"/>
 </attvalues>

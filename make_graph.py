@@ -2,7 +2,7 @@
 
 import json, codecs, itertools
 
-PATH_DATA = u'/home/lizaku/Документы/geo/'
+PATH_DATA = u'/home/liza/Документы/geo/'
 output_f = codecs.open('cooccurrences_countries.gexf', 'w')
 output_f.write('<?xml version="1.0" encoding="UTF-8"?>\n<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="' +\
                'http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft ' +\
@@ -54,7 +54,7 @@ for country in set(countries):
     if country not in countries_id:
         countries_id[country] = co_id
         co_id += 1
-    s = '<node id="%s" label="%s">\n<attvalues/>\n</node>' % (str(countries_id[country]), country)
+    s = '<node id="%s" label="%s">\n<attvalues/>\n</node>' % (country, country) # str(countries_id[country]))
     output_f.write(s.encode('utf-8'))
 output_f.write('</nodes>\n<edges>')
 
@@ -70,7 +70,7 @@ for piece in d:
         #    e_id = ed_id
         #    ed_id += 1
         #print pair[0], pair[1]
-        s = '<edge id="%s" source="%s" target="%s">' % (str(ed_id), str(countries_id[pair[0]]), str(countries_id[pair[1]]))
+        s = '<edge id="%s" source="%s" target="%s">' % (str(ed_id), pair[0], pair[1]) #str(countries_id[pair[0]]), str(countries_id[pair[1]]))
         s += '<attvalues>\n<attvalue for="0" value="%s"/>\n<attvalue for="1" value="%s"/>\n</attvalues>\n</edge>' \
              % (piece[1], piece[2])
         ed_id += 1
